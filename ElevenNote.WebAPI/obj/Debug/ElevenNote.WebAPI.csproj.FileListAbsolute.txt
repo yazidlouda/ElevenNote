@@ -123,3 +123,10 @@ C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.We
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.pdb
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll.config
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\WebActivatorEx.dll
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\System.Web.Cors.dll
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\System.Web.Http.Cors.xml

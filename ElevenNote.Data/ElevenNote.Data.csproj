@@ -85,12 +85,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ElevenNote.Data.cs" />
+    <Compile Include="Migrations\202011111548052_InitialCreate.cs" />
+    <Compile Include="Migrations\202011111548052_InitialCreate.Designer.cs">
+      <DependentUpon>202011111548052_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011112010560_initialmigration.cs" />
+    <Compile Include="Migrations\202011112010560_initialmigration.Designer.cs">
+      <DependentUpon>202011112010560_initialmigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202011111548052_InitialCreate.resx">
+      <DependentUpon>202011111548052_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011112010560_initialmigration.resx">
+      <DependentUpon>202011112010560_initialmigration.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
