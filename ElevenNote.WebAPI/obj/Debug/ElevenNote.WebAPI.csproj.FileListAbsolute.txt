@@ -55,7 +55,6 @@ C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\roslyn\VBCSCompiler
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Antlr3.Runtime.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Data.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Models.dll
-C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\EntityFramework.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\EntityFramework.SqlServer.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
@@ -90,8 +89,6 @@ C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Data.pdb
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Data.dll.config
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Models.pdb
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Models.dll.config
-C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.pdb
-C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll.config
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Newtonsoft.Json.xml
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\System.Net.Http.Formatting.xml
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\System.Web.Helpers.xml
@@ -123,3 +120,6 @@ C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.CodeDom.P
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.pdb
+C:\Users\yalou\source\repos\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.Services.dll.config
